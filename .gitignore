@@ -1,0 +1,10 @@
+# Ignore backend dependencies
+/backend/node_modules
+
+# Ignore contract compilation artifacts
+/contract/artifacts
+/contract/cache
+
+# Ignore common files
+.DS_Store
+*.log
