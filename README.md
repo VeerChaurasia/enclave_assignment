@@ -100,6 +100,9 @@ npx ts-node deployandEOA.ts
 
 <img width="837" alt="Output3" src="https://github.com/user-attachments/assets/649ef173-3649-4bb5-aa85-3ac75a76a72a" />
 <img width="1451" alt="Output2" src="https://github.com/user-attachments/assets/9ca51b11-fa3f-4955-9680-791efc23dda2" />
+<img width="1433" alt="Screenshot 2025-06-24 at 10 27 13" src="https://github.com/user-attachments/assets/ae56446d-67ed-4e9d-b015-aee866c053e4" />
+
+
 
 
 
